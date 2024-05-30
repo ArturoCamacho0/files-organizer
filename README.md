@@ -32,5 +32,5 @@ A Python script to organize files in the Downloads folder by moving them to desi
 
 5. Run the script:
    ```sh
-   python organize_downloads.py
+   python main.py
    ```
