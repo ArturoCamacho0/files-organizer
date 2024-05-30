@@ -24,10 +24,10 @@ A Python script to organize files in the Downloads folder by moving them to desi
 
 4. Create a `.env` file in the project directory with the following content:
    ```dotenv
-   DOWNLOADS_FOLDER=C:\\Users\\yourusername\\Downloads
-   DOCUMENTS_FOLDER=C:\\Users\\yourusername\\OneDrive\\Documentos
-   PICTURES_FOLDER=C:\\Users\\yourusername\\OneDrive\\Imágenes
-   VIDEOS_FOLDER=C:\\Users\\yourusername\\OneDrive\\Videos
+   DOWNLOADS_FOLDER=path_to_the_folder
+   DOCUMENTS_FOLDER=path_to_the_folder
+   PICTURES_FOLDER=path_to_the_folder
+   VIDEOS_FOLDER=path_to_the_folder
    ```
 
 5. Run the script:
